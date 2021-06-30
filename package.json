@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/genhcode99/movieql/issues"
   },
-  "homepage": "https://github.com/genhcode99/movieql#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "graphql-yoga": "^1.18.3"
